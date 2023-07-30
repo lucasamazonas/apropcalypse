@@ -45,4 +45,7 @@ A ideia é dividir a responsabilidade de um componente em especializações. Por
 
 Show!
 
-Neste exemplo específico, não foram utilizadas props, pois o objetivo era demonstrar a solução para um problema específico. A explicação detalhada sobre o problema e a solução podem ser encontradas no arquivo, juntamente com o link para a conferência onde tudo é explicado com mais detalhes. A conferência é uma ótima fonte para entender melhor o contexto e a abordagem adotada.
+Lembrando que este é apenas um exemplo, por isso não foram utilizadas nenhuma prop, pois a proposta era mostrar a solução para o problema. Expliquei tudo aqui no arquivo e deixei o link da conferência onde tudo é explicado com mais detalhes.
+
+
+
