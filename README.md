@@ -33,11 +33,11 @@ Aqui estão alguns dos principais problemas:
 
 ## Solução
 
-O conceito é dividir a responsabilidade de um componente em especializações menores. Por exemplo, um componente chamado "Card" é desmembrado em componentes "Root", "Body" e "Title", usando um arquivo "index.js" para exportá-los, facilitando sua utilização e melhorando a organização, reutilização e escalabilidade do código.
+A ideia é dividir a responsabilidade de um componente em especializações. Por exemplo, um componente chamado "Card" é desmembrado em componentes "Root", "Body" e "Title", usando um arquivo "index.js" para exportá-los, facilitando sua utilização e melhorando a organização, reutilização e escalabilidade do código.
 
 ![Lista de arquivos do componente Card](./src/assets/arquivos.jpeg)
 
-#### Beleza, e agora como utilizo o compoenten Card?
+#### Beleza, e agora como utilizo o componente Card?
 
 É simples, seja o exemplo abaixo:
 
