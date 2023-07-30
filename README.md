@@ -39,7 +39,7 @@ A ideia é dividir a responsabilidade de um componente em especializações. Por
 
 #### Beleza, e agora como utilizo o componente Card?
 
-É simples, seja o exemplo abaixo:
+É simples, veja o exemplo abaixo:
 
 ![Lista de arquivos do componente Card](./src/assets/usando_componente.jpeg)
 
